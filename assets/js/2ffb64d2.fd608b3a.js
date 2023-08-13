@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotificationfilter_doc=self.webpackChunknotificationfilter_doc||[]).push([[1290],{7471:t=>{t.exports=JSON.parse('{"permalink":"/blog/tags/v-2-8-0","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

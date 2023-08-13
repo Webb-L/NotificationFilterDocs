@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotificationfilter_doc=self.webpackChunknotificationfilter_doc||[]).push([[5255],{9425:t=>{t.exports=JSON.parse('{"label":"v2.8.0","permalink":"/blog/tags/v-2-8-0","allTagsPath":"/blog/tags","count":1}')}}]);

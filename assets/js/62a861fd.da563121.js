@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotificationfilter_doc=self.webpackChunknotificationfilter_doc||[]).push([[8698],{1930:t=>{t.exports=JSON.parse('{"permalink":"/blog/tags/ntfy","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
